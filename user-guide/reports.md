@@ -16,7 +16,7 @@ Choose needed sorting at _List Order_ field.
 
 At _Filters_ section you can specify criteria that determines what records will be listed in your report. You can use logical operators 'OR' and 'AND' here.
 
-_Runtime Filters_ allows you to specify different filters before you run the report.
+_Runtime Filters_ allow you to specify different filters before you run the report.
 
 You can __export__ list report results in csv format. This format can be opened by various application like Excel, Calc.
 
@@ -34,7 +34,7 @@ _Order by_ field defines how report data will be sorted.
 
 At _Filters_ section you can specify criteria that determines what records will be used in your report. You can use logical operators 'OR' and 'AND' here.
 
-_Runtime Filters_ allows you to specify different filters before you run the report.
+_Runtime Filters_ allow you to specify different filters before you run the report.
 
 Grid report allows displaying results in a chart form. There are following _chart types_: Bar (Horizontal), Bar (Vertical), Pie, Line.
 
